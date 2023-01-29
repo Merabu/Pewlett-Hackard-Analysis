@@ -7,5 +7,5 @@ Bobby and I was tasked by his manager to determine the number of retiring employ
 
 ## Results
 ### Total expected retirees: 
-Out of 300,024 employees, 90,398 of the total employees are likely to retire which is 31.13%
-
+There are 72458 employee expected to be at retirement age 
+![retiring titles](https://user-images.githubusercontent.com/115379848/215355179-b630adb6-dec7-437c-99d6-508c19f02c2c.png)
