@@ -20,3 +20,5 @@ There are 72458 employee expected to be at retirement age
 
 ### Employees Eligible to Participate in Mentorship Program
 ![image](https://user-images.githubusercontent.com/115379848/215359417-9953017f-a16e-492c-8cd1-f741b059d86c.png)
+
+This 1940 employess will be selected to take part of the memetorship program which is expected to train employees 
