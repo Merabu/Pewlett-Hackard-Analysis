@@ -25,6 +25,7 @@ Followed by senior staff with 34.4% which means the company may face more diffcu
 
 ### Employees Eligible to Participate in Mentorship Program
 ![image](https://user-images.githubusercontent.com/115379848/215360220-e9340f17-197d-4695-9b6b-f14ca514b538.png)
+
 Over 1940 employess will be selected to take part of the memetorship program wich is expected to train employees 
 
 ## additional Queries to assist the management.
