@@ -4,6 +4,7 @@ Bobby and I was tasked by his manager to determine the number of retiring employ
 	Deliverable 1: The Number of Retiring Employees by Title
 	Deliverable 2: The Employees Eligible for the Mentorship Program
 	Deliverable 3: A written report on the employee database analysis.
+![EmployeeDB png](https://user-images.githubusercontent.com/115379848/215355325-566d2477-21c5-4aa8-b7a5-469168e3f73c.png)
 
 
 
