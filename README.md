@@ -29,3 +29,14 @@ Followed by senior staff with 34.4% which means the company may face more diffcu
 Over 1940 employess will be selected to take part of the memetorship program wich is expected to train employees 
 
 ## additional Queries to assist the management.
+### Additional Table
+--create a new table table joining currect employees and retiring employees.group by titles
+SELECT DB1.TITLE, COUNT(DB1.TITLE) AS CUR_EMP , COUNT(DB2.TITLE) AS RET_EMP
+INTO EXTRA_QUERY
+FROM BONUS_DB2 DB1
+LEFT JOIN UNIQUE_TITLES DB2 ON (DB1.EMP_NO = DB2.EMP_NO)
+GROUP BY DB1.TITLE
+SELECT * FROM EXTRA_QUERY;
+
+
+### Additinal  Query
