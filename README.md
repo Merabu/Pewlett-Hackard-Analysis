@@ -5,6 +5,9 @@ Bobby and I was tasked by his manager to determine the number of retiring employ
 	Deliverable 2: The Employees Eligible for the Mentorship Program
 	Deliverable 3: A written report on the employee database analysis.
 
+
+
+
 ## Results
 ### Total expected retirees: 
 There are 72458 employee expected to be at retirement age 
