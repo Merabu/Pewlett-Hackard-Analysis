@@ -10,7 +10,7 @@ The first thing i had to do is use the data in csv formata to create six individ
 
 ![EmployeeDB png](https://user-images.githubusercontent.com/115379848/215355325-566d2477-21c5-4aa8-b7a5-469168e3f73c.png)
 
-
+### Deliverable 1: The Number of Retiring Employees by Title
 
 
 ## Results
@@ -30,13 +30,8 @@ Over 1940 employess will be selected to take part of the memetorship program wic
 
 ## additional Queries to assist the management.
 ### Additional Table
---create a new table table joining currect employees and retiring employees.group by titles
-SELECT DB1.TITLE, COUNT(DB1.TITLE) AS CUR_EMP , COUNT(DB2.TITLE) AS RET_EMP
-INTO EXTRA_QUERY
-FROM BONUS_DB2 DB1
-LEFT JOIN UNIQUE_TITLES DB2 ON (DB1.EMP_NO = DB2.EMP_NO)
-GROUP BY DB1.TITLE
-SELECT * FROM EXTRA_QUERY;
-
+Employeess salaries could be further analyzed creating a summaries of salaries by positiom title.
+This can help the company in planning how much they are expected to spent on salaries in relation to position.
 
 ### Additinal  Query
+Have an extension of mentorship eligbility by adjusting the query to capture currect employees whose birth dates are outside of the currect one_year eligibilty requirenment.
