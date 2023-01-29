@@ -13,7 +13,9 @@ the first thing i had to do is use the data in csv formata to create six individ
 
 ## Results
 ### Total expected retirees: 
-There are 72458 employee expected to be at retirement age 
+There are 72458 employee expected to be at retirement age.
+35.76% of the total expected retirement population are Seniors engineers
+Followed by 
 ![retiring titles](https://user-images.githubusercontent.com/115379848/215355179-b630adb6-dec7-437c-99d6-508c19f02c2c.png)
 
 ### Employees Eligible to Participate in Mentorship Program
