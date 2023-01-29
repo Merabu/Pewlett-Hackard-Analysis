@@ -6,7 +6,7 @@ Bobby and I was tasked by his manager to determine the number of retiring employ
 	Deliverable 3: A written report on the employee database analysis.
 
 ## Process
-the first thing i had to do is use the data in csv formata to create six individual table. I achieved by first examining the data and getting an understanding of the data. We used the ERD concept to create a visual map to show the relationship as we assign primary and foreign keys.This process flashed light in my queries which saved my time
+The first thing i had to do is use the data in csv formata to create six individual table. I achieved by first examining the data and getting an understanding of the data. We used the ERD concept to create a visual map to show the relationship as we assign primary and foreign keys.This process flashed light in my queries which saved my time
 
 ![EmployeeDB png](https://user-images.githubusercontent.com/115379848/215355325-566d2477-21c5-4aa8-b7a5-469168e3f73c.png)
 
