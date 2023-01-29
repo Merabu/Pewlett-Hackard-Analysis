@@ -10,7 +10,7 @@ The first thing i had to do is use the data in csv formata to create six individ
 
 ![EmployeeDB png](https://user-images.githubusercontent.com/115379848/215355325-566d2477-21c5-4aa8-b7a5-469168e3f73c.png)
 
-### Deliverable 1: The Number of Retiring Employees by Title
+
 
 
 ## Results
